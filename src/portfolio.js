@@ -280,6 +280,23 @@ const workExperiences = {
     },
 
     {
+  role: "Data Science Intern",
+
+  company: "Hetero Pharmaceuticals",
+
+  companylogo: require("./assets/images/hetero.png"),
+
+  date: "January 2026 – May 2026",
+
+  desc: "Analyzed pharmaceutical production data to improve process monitoring and decision-making.",
+
+  descBullets: [
+    "Analyzed laboratory and production metrics using Python and Power BI",
+    "Built statistical models and process-control charts that improved yield-estimation accuracy by 25%"
+  ]
+},
+
+    {
       role: "Undergraduate Research Assistant",
 
       company: "Wisconsin School of Business",
